@@ -6,5 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  * Created By Shameera.A on 4/25/2022
  */
+/*
 public interface FileUploadRepository extends JpaRepository<FileUpload,Long> {
 }
+*/
